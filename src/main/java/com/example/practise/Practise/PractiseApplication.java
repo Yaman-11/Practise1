@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PractiseApplication {
 
     public static void main(String[] args) {
-        System.out.println("NESDFDghfj");
         SpringApplication.run(PractiseApplication.class, args);
     }
 
